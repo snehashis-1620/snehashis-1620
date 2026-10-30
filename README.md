@@ -185,5 +185,13 @@ End-to-end data analytics project — a Python pipeline covering synthetic data 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0369a1,100:38bdf8&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="Thanks for visiting"/>
-[snake.yml](https://github.com/user-attachments/files/34189936/snake.yml)
- 
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/snehashis-1620/snehashis-1620/output/github-snake-dark.svg"
+  />
+  <img
+    alt="github-snake"
+    src="https://raw.githubusercontent.com/snehashis-1620/snehashis-1620/output/github-snake.svg"
+  />
+</picture>
