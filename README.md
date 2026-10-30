@@ -1,4 +1,3 @@
-[README (1) (1).md](https://github.com/user-attachments/files/34188399/README.1.1.md)
 ## Hi there 👋
 
 <!--
