@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7dd3fc&height=260&section=header&text=Snehashis%20Aich&fontSize=60&fontColor=ffffff&stroke=7dd3fc&strokeWidth=1&animation=twinkling&fontAlignY=38&desc=CSE-AI%20Student%20-%20Cybersecurity%20,%20Full-Stack%20and%20Data%20Enthusiast&descSize=20&descAlignY=60" width="100%" alt="Snehashis Aich"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7dd3fc&height=260&section=header&text=Snehashis%20Aich&fontSize=60&fontColor=ffffff&stroke=7dd3fc&strokeWidth=1&animation=twinkling&fontAlignY=38&desc=CSE-AI%20Student%20-%20Cybersecurity,%20Networking,%20Data%20Enthusiast%20and%20Full-Stack&descSize=20&descAlignY=60" width="100%" alt="Snehashis Aich"/>
 
 <a href="https://github.com/snehashis1620">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&height=45&lines=B.Tech+CSE-AI+Student+%40+GIFT+Autonomous;Building+MediQueue+%F0%9F%8F%A5;Exploring+Data+Analytics+and+ML+%F0%9F%93%88;Open+to+Full-Stack+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
