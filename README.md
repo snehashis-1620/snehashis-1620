@@ -147,6 +147,8 @@ End-to-end data analytics project — a Python pipeline covering synthetic data 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7dd3fc&height=140&section=footer&animation=twinkling" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7DD3FC&center=true&vCenter=true&width=500&height=50&lines=Thank+you+for+visiting+%F0%9F%99%8F;Thank+you+for+visiting+%E2%9D%A4%EF%B8%8F" alt="Thank you for visiting" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7dd3fc&height=140&section=footer&text=Thank%20you%20for%20visiting&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" />
 
 </div>
